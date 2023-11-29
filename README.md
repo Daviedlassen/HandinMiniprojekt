@@ -1,3 +1,6 @@
+# NOTICE NOTICE NOTICE 
+as the file was around 2gb I've had a lot of trouble uploading it to github, if this isn't sufficient I've created another download link for the entirety of the project
+
 # Slender // Made by Davied
 
 Slender, is a simple recreation of the 2009 slender man game. The player needs to search the woods, using keyboard & mouse to move around. The objective is to collect all 8 papers which are hung on trees and rocks shattered around the map. Currently, slender wont be able to do anything directly against the player, but will be stalking the player throughout the woods, both nearby and far. The genre of the game is horror.
